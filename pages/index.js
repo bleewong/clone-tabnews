@@ -10,12 +10,4 @@ function Home() {
   );
 }
 
-function test() {
-  console.log("test");
-}
-
-function test2() {
-  console.log("identação errada!!!");
-}
-
 export default Home;
